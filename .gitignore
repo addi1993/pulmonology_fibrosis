@@ -89,3 +89,6 @@ ENV/
 .ropeproject
 #DICOM
 *.dicom
+fibrosis_patches_8/
+fibrosis_small/
+infiltration_patches_8/
